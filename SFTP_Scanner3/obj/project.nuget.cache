@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUAhRroR25BlID6HRUAdANzO9eWtFKk5e8Gze2qBb9gpl93u2yjrsGkqDJOsizqe/23woItWW4miawo9L4ACyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jamie.leslie\\source\\repos\\SFTP_Scanner3\\SFTP_Scanner3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jamie.leslie\\.nuget\\packages\\ssh.net\\2020.0.2\\ssh.net.2020.0.2.nupkg.sha512",
+    "C:\\Users\\Jamie.leslie\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
